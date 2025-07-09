@@ -1,0 +1,16 @@
+PAYROLL COMPLIANCE REPORT – Generated on 2025-07-09 15:52
+---------------------------------------------------------
+Total Employees Checked: 3
+✅ Fully Compliant: 1
+❌ Non-Compliant: 2
+
+Breakdown:
+- Valid PAN: 1
+- Valid Email: 2
+- PF ≥ 12%: 2
+- TDS ≥ 5%: 2
+- Valid DOJ: 2
+- HRA Sanity OK: 2
+
+Compliance Score: 33%
+---------------------------------------------------------
